@@ -2,7 +2,7 @@
 //  CartCollectorUITests.swift
 //  CartCollectorUITests
 //
-//  Created by Jackie Callahan on 5/20/18.
+//  Created by Robert Callahan on 5/20/18.
 //  Copyright © 2018 Robert Callahan. All rights reserved.
 //
 
